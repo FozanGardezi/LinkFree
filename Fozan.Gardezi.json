@@ -1,0 +1,10 @@
+{
+	"name": "Fozan Gardezi",
+	"type": "personal",
+	"bio": "Javascript Developer | Explorer",
+	"links": [{
+		"name": "Checkout my Github",
+		"url": "https://github.com/FozanGardezi",
+		"icon": "FaGithub"
+	}]
+}
